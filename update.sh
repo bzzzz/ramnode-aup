@@ -8,7 +8,7 @@ fi
 
 BRANCH=$1
 PUSH=$2
-CURLOPTS=--silent --user-agent ""
+CURLOPTS="--silent --user-agent \"\""
 CURL=/usr/bin/curl
 
 $CURL $CURLOPTS --output privacy https://clientarea.ramnode.com/privacy.php
