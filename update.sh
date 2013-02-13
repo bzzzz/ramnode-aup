@@ -16,17 +16,13 @@ $CURL $CURLOPTS --output privacy https://clientarea.ramnode.com/privacy.php
 echo "Fetching https://clientarea.ramnode.com/aup.php"
 $CURL $CURLOPTS --output aup https://clientarea.ramnode.com/aup.php
 
-if [ "`git diff`" != "" ]
-then
-    echo "Committing changes."
-    git checkout -B "$BRANCH"
-    git add privacy aup
-    git commit -m "`date`"
-    git checkout -
+git checkout -B "$BRANCH"
+git add privacy aup
+git commit -m "`date`"
+git checkout -
 
-    if [ "$PUSH" != "" ]
-    then
-        echo "Pushing branch $BRANCH to origin."
-        git push origin "$BRANCH"
-    fi
+if [ "$PUSH" != "" ]
+then
+    echo "Pushing branch $BRANCH to origin."
+    git push origin "$BRANCH"
 fi
