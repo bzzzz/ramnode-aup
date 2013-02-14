@@ -14,7 +14,7 @@
 <div id="toplinks">
 <div id="toplinkswrapper">
 <div id="toplinkswrappertext">
-current promo: 20% off for life w/ code "rn20off"
+current promo: 15% off for life w/ code "rn15off"
 </div>
 <div id="toplinksicons">
 <a href="http://twitter.com/ramnode" target="_blank"><img src="templates/default/img/twitter.png" alt="Twitter"/></a>
@@ -24,8 +24,8 @@ current promo: 20% off for life w/ code "rn20off"
 <div id="toplinkswrapperlinks">
 <img src="images/topstats.png" alt="Network Status"/> &nbsp;
 <a href="serverstatus.php">Network Status</a> &nbsp; &nbsp;
-<img src="images/topuser.png" alt="Control Panel"/> &nbsp;
-<a href="https://vpscp.ramnode.com">Control Panel</a> &nbsp; &nbsp;
+<img src="images/topuser.png" alt="SolusVM Control Panel"/> &nbsp;
+<a href="https://vpscp.ramnode.com">SolusVM CP</a> &nbsp; &nbsp;
 </div>
 </div>
 </div> 
