@@ -117,7 +117,7 @@ current promo: 15% off for life w/ code "rn15off"
 </ul>
 <p class="lessspaced">If, as a result of your actions, our mail servers or IP address ranges are placed on black hole lists or other mail filtering software systems, your VPS may be suspended and possibly terminated upon review. If we deem your account at risk for repeated AUP infractions, we may suspend and/or terminate all VPSs on it.</p>
 <p class="bold spaced">HARDWARE RESOURCE USAGE</p>
-<p class="lessspaced">Client agrees not to run any programs on his or her VPS which constantly use 90% of any CPU core or which causes a high CPU load on the node.</p>
+<p class="lessspaced">Client agrees not to run any programs on his or her VPS which use 90% of any CPU core for an extended period of time or which cause a high CPU load on the host node for an extended period of time.</p>
 <p class="bold spaced">NETWORK</p>
 <p class="lessspaced">Although we have the ability to absorb and tolerate occassional DDoS attacks, clients who are targetted with frequent and/or disruptive attacks will be terminated. In addition, we do not allow port-scanning or UDP floods to be sent from our network. Accounts sending floods or port-scanning will be suspended and/or terminated.</p>
 <p class="lessspaced">If your VPS is found to be significantly degrading the connection speed of other VPSs on its node, it will be rate-limited to an appropriate transfer rate (starting at 100Mbps).</p>
@@ -136,6 +136,7 @@ current promo: 15% off for life w/ code "rn15off"
 <ul>
 <li>TOR Exit Nodes</li>
 <li>CamFrog Video Hosting</li>
+<li>Bitcoin Mining</li>
 </ul>
 </p>
 <p class="bold spaced">SECURITY</p>
