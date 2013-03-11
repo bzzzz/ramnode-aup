@@ -40,7 +40,7 @@ current promo: 15% off for life w/ code "rn15off"
 <div id="innerovernav">
 <ul>
 <li class="homelink"><a href="http://www.ramnode.com/index.php">Home</a></li>
-<li class="vpslink"><a href="https://clientarea.ramnode.com/cart.php">VPS</a></li>
+<li class="vpslink"><a href="https://clientarea.ramnode.com/cart.php?carttpl=slider">VPS</a></li>
 <li><a href="https://clientarea.ramnode.com/announcements.php">News</a></li>
 <li><a href="https://clientarea.ramnode.com/knowledgebase.php">FAQ</a></li>
 <li class="techlink"><a href="http://www.ramnode.com/technology.php">Technology</a></li>
@@ -162,8 +162,8 @@ current promo: 15% off for life w/ code "rn15off"
 <div class="footerlinksboxes">
 <span class="footerlinkstitle">Hosting</span>
 <ul>
-<li><a href="https://clientarea.ramnode.com/cart.php">SSD VPS Hosting</a></li>
-<li><a href="https://clientarea.ramnode.com/cart.php">SSD-Cached VPS Hosting</a></li>
+<li><a href="https://clientarea.ramnode.com/cart.php?carttpl=slider">SSD VPS Hosting</a></li>
+<li><a href="https://clientarea.ramnode.com/cart.php?carttpl=slider">SSD-Cached VPS Hosting</a></li>
 </ul>
 </div>
 <div class="footerlinksboxes">
