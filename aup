@@ -119,7 +119,7 @@ current promo: 15% off for life w/ code "rn15off"
 <p class="bold spaced">HARDWARE RESOURCE USAGE</p>
 <p class="lessspaced">Client agrees not to run any programs on his or her VPS which use 90% of any CPU core for an extended period of time or which cause a high CPU load on the host node for an extended period of time.</p>
 <p class="bold spaced">NETWORK</p>
-<p class="lessspaced">Although we have the ability to absorb and tolerate occassional DDoS attacks, clients who are targetted with frequent and/or disruptive attacks will be terminated. In addition, we do not allow port-scanning or UDP floods to be sent from our network. Accounts sending floods or port-scanning will be suspended and/or terminated.</p>
+<p class="lessspaced">Although we have the ability to absorb and tolerate occassional DDoS attacks, clients who are targetted with frequent and/or disruptive attacks will be terminated. In addition, we do not allow port-scanning or UDP floods to be sent from our network. Accounts sending floods, port-scanning, and/or creating artificial traffic will be suspended and/or terminated.</p>
 <p class="lessspaced">If your VPS is found to be significantly degrading the connection speed of other VPSs on its node, it will be rate-limited to an appropriate transfer rate (starting at 100Mbps).</p>
 <p class="bold spaced">COMMONLY QUESTIONED USES</p>
 <p class="lessspaced">The following are acceptable uses provided they comply with the rest of this AUP:
