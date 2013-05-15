@@ -14,7 +14,7 @@
 <div id="toplinks">
 <div id="toplinkswrapper">
 <div id="toplinkswrappertext">
-current promo: 15% off for life w/ code "rn15off"
+current promo: 15% off VPS for life w/ code "rn15off"
 </div>
 <div id="toplinksicons">
 <a href="http://twitter.com/ramnode" target="_blank"><img src="templates/default/img/twitter.png" alt="Twitter"/></a>
@@ -165,6 +165,7 @@ current promo: 15% off for life w/ code "rn15off"
 <ul>
 <li><a href="https://clientarea.ramnode.com/cart.php?carttpl=vps">SSD VPS Hosting</a></li>
 <li><a href="https://clientarea.ramnode.com/cart.php?carttpl=vps">SSD-Cached VPS Hosting</a></li>
+<li><a href="https://clientarea.ramnode.com/cart.php?gid=12">cPanel/WHM</a></li>
 <li><a href="https://clientarea.ramnode.com/cart.php?gid=12">DNS Hosting</a></li>
 </ul>
 </div>
